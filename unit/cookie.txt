@@ -1,7 +1,4 @@
-# Netscape HTTP Cookie File
-# http://curl.haxx.se/rfc/cookie_spec.html
-# This is a generated file!  Do not edit.
-
-.baidu.com	TRUE	/	FALSE	1776742607	BAIDUID	8621E607B3962D3F13E42B4B74A142E8:FG=1
-.baidu.com	TRUE	/	FALSE	3892690254	BIDUPSID	8621E607B3962D3F14C9FBC64F8647B4
-.baidu.com	TRUE	/	FALSE	3892690254	PSTM	1745206607
+#LWP-Cookies-2.0
+Set-Cookie3: BAIDUID="6B6BDEE882283AAF93A4C615F5416095:FG=1"; path="/"; domain=".baidu.com"; path_spec; domain_dot; expires="2026-04-21 06:57:56Z"; comment=bd; version=0
+Set-Cookie3: BIDUPSID=6B6BDEE882283AAF2D914B947048F6A1; path="/"; domain=".baidu.com"; path_spec; domain_dot; expires="2093-05-09 10:12:03Z"; version=0
+Set-Cookie3: PSTM=1745218676; path="/"; domain=".baidu.com"; path_spec; domain_dot; expires="2093-05-09 10:12:03Z"; version=0
